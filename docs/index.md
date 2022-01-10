@@ -417,4 +417,4 @@ class Firma
 
 ![Test](/docs/images/structorprogramm.PNG)
 
-[Lösung](/docs/Lösung/LoesungAufgabe1.md)
+[Lösung](/docs/Lösung/LösungAufabe1.md)
